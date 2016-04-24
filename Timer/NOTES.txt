@@ -1,0 +1,9 @@
+http://www.pygame.org/docs/ref/joystick.html
+https://github.com/micolous/xbox360bb
+http://www.python-course.eu/python3_formatted_output.php
+http://www.rapidtables.com/web/color/RGB_Color.htm
+
+http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/
+http://davidbriddock.blogspot.co.uk/2014/01/learn-python-on-raspberry-pi.html
+http://www.raspberry-pi-geek.com/Archive/2014/03/Graphical-displays-with-Python-and-Pygame
+https://sourceforge.net/p/raspberry-gpio-python/wiki/Inputs/
